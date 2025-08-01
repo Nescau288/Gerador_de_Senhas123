@@ -21,6 +21,6 @@ O algoritmo:
 4. Garante pelo menos uma letra maiúscula e uma minúscula
 5. Limita a senha entre **8 e 12 caracteres**, e anexa a semente no final
 
-## ⚠️ Notas do desenvolverdor
+## ⚠️ Notas do desenvolvedor
 
 O código poderá sofrer alterações futuramente!
